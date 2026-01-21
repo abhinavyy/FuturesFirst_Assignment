@@ -1,4 +1,3 @@
----
 
 # Stock Price Prediction using Machine Learning
 
@@ -12,8 +11,6 @@ This project focuses on predicting the next day’s stock price using only the p
 
 * **Data 2.csv**: Independent variable (The Signal).
 * **StockPrice.csv**: Dependent variable (Stock Price).
-
----
 
 ## ⚙️ Core Assumptions
 
