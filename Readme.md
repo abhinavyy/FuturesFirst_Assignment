@@ -45,7 +45,7 @@ INTERNSHIPASSIGNMENT/
 ### 1. Clone the Repository
 
 ```bash
-git clone <https://github.com/abhinavyy/FuturesFirst_Assignment>
+git clone https://github.com/abhinavyy/FuturesFirst_Assignment
 cd INTERNSHIPASSIGNMENT
 
 ```
