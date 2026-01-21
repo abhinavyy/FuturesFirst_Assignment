@@ -1,8 +1,6 @@
 
 # Stock Price Prediction using Machine Learning
 
-### Python Developer Intern – 2026 | Machine Learning Assignment
-
 ## 📌 Problem Statement
 
 This project focuses on predicting the next day’s stock price using only the provided datasets. The goal is to build a Python-based machine learning model that explicitly captures how day-over-day changes in the independent signal influence stock price movements.
@@ -47,7 +45,7 @@ INTERNSHIPASSIGNMENT/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-link>
+git clone <https://github.com/abhinavyy/FuturesFirst_Assignment>
 cd INTERNSHIPASSIGNMENT
 
 ```
