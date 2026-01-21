@@ -1,0 +1,25 @@
+
+MODEL PERFORMANCE REPORT
+==================================================
+
+DATA SPLIT
+--------------------------------------------------
+Training Samples : 3039
+Testing Samples  : 760
+
+CORE REGRESSION METRICS
+--------------------------------------------------
+MAE   (Average Error)        : 38.23
+RMSE  (Error Magnitude)     : 49.88
+R²    (Explained Variance)  : 0.9935
+
+ACCURACY INTERPRETATION
+--------------------------------------------------
+MAPA (Accuracy %)           : 99.21%
+NRMSE (Relative Error %)    : 1.01%
+Directional Accuracy        : 48.82%
+
+MODEL STABILITY
+--------------------------------------------------
+Error Std Deviation         : 49.56
+
