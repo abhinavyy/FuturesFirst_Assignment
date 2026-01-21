@@ -97,7 +97,7 @@ python main.py
 | --- | --- | --- |
 | **MAE** | 38.23 | Average prediction error |
 | **RMSE** | 49.88 | Penalizes larger errors |
-| **** | 0.9935 | Explains 99.35% of price variance |
+| **R2** | 0.9935 | Explains 99.35% of price variance |
 | **Accuracy** | 99.21% | MAPA based accuracy |
 
 ---
